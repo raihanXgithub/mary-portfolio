@@ -117,3 +117,32 @@ header {
 .about-info div h5 {
   font-size: 14px;
 }
+
+/* what-i-do section related styles */
+.what-i-do-section {
+}
+
+.what-i-do-intro {
+  padding: 60px 120px;
+  text-align: center;
+}
+
+.what-i-do-skills {
+  display: flex;
+  gap: 70px;
+}
+
+.skill-box {
+  padding: 20px 20px 0 20px;
+  width: 200px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.skill-icon {
+  width: 30px;
+  margin-bottom: -5px;
+}
+
+.skill-title {
+  margin-bottom: -5px;
+}
