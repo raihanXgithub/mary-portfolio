@@ -146,3 +146,47 @@ header {
 .skill-title {
   margin-bottom: -5px;
 }
+
+/* resume section related styles */
+.resume-section {
+}
+
+.resume-heading-title {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.resume-column {
+  display: flex;
+  /* gap: 80px; */
+  justify-content: space-around;
+  color: #474747;
+}
+
+.resume-main-title {
+  font-size: 20px;
+}
+
+.resume-sub-box {
+  width: 400px;
+}
+
+.resume-title {
+  margin: -5px 0;
+}
+
+.resume-info {
+  margin: 10px 0;
+}
+
+hr {
+  opacity: 0.5;
+  margin: 20px;
+}
+
+.resume-section a {
+  display: flex;
+  margin-top: 40px;
+  text-decoration: none;
+  justify-content: center;
+}
