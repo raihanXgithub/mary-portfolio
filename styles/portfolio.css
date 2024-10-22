@@ -91,3 +91,29 @@ header {
   background-position: right bottom, right bottom, left 20px center;
   background-size: 30%, 45%, 5%;
 }
+
+/* about section related styles */
+.about-section {
+  text-align: center;
+  background-color: #fff8f2;
+  padding: 60px 120px;
+}
+
+.about-title {
+  margin-bottom: 30px;
+}
+
+.about-info {
+  display: flex;
+  justify-content: space-around;
+  line-height: 0px;
+}
+
+.about-info div p {
+  color: #474747;
+  font-size: 14px;
+}
+
+.about-info div h5 {
+  font-size: 14px;
+}
