@@ -23,6 +23,9 @@ section {
   background-color: #fc6f0a;
 }
 
+.description {
+}
+
 /* nav section related styles */
 .nav-section {
   margin-top: 20px;
@@ -47,4 +50,5 @@ section {
   color: black;
   font-size: 14px;
 }
+
 /* header section related styles */
