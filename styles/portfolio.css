@@ -24,11 +24,14 @@ section {
 }
 
 .description {
+  color: #474747;
+  line-height: 15px;
+  margin: 20px 0;
 }
 
 /* nav section related styles */
 .nav-section {
-  margin-top: 20px;
+  margin-top: 0px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -51,4 +54,40 @@ section {
   font-size: 14px;
 }
 
+/* greeting section related styles */
+.greeting-section {
+  padding-bottom: 120px;
+}
+
+.greeting-intro {
+  font-size: 32px;
+  color: #474747;
+}
+
+.greeting-title {
+  font-size: 44px;
+}
+
+.greeting-description {
+  width: 500px;
+}
+
+.greeting-section .primary-btn {
+  margin-right: 15px;
+}
+
+.greeting-section .contact-btn {
+  background-color: #fff;
+  border: 1px solid #fc6f0a;
+  color: #fc6f0a;
+}
+
 /* header section related styles */
+header {
+  background-color: #fff8f2;
+  background-image: url("../images/hardy.png"), url("../images/header_bg.png"),
+    url(../images/developer.png);
+  background-repeat: no-repeat;
+  background-position: right bottom, right bottom, left 20px center;
+  background-size: 30%, 45%, 5%;
+}
