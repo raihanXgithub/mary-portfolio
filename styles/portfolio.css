@@ -29,6 +29,10 @@ section {
   margin: 20px 0;
 }
 
+.font-awesome-icon {
+  margin-right: 5px;
+}
+
 /* nav section related styles */
 .nav-section {
   margin-top: 0px;
